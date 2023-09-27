@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a human who has spent my entire career taking on tasks that I probably shouldn't, but end up learning a lot and contributing to facilitating the research of some of the most brilliant minds on the planet.   
+I am a Ph.D. candidate in Economics at Harvard University. My main areas of interest are labor economics, the economics of crime, and the economics of education. My research focuses on understanding and addressing racial inequality in criminal justice, education, health, and labor market systems. My job market paper explores.
 
-Markdown Files, I'm learning?
-======
-Website development has never been my thing.  Taking something that someone else learned to code and tweaking is totally in my wheelhouse though.
+I am also a Stone Ph.D. Scholar in [Harvard’s Inequality & Social Policy Program](https://inequality.hks.harvard.edu), an [NSF Graduate Fellow](https://www.nsfgrfp.org), and an affiliate at [Harvard's Institute for Quantitative Social Science](https://www.iq.harvard.edu/about).
+
+Prior to graduate school, I was a Senior Analyst at Analysis Group, Inc., and a Data Analyst with the State of Massachusetts' Betsy Lehman Center. I received my B.A. in Mathematical-Economics from Wesleyan University in 2013.
+
+[CV](files/RCampbell_CV_2023.pdf)
 
 

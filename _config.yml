@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Romaine Campbell    "
+title                    : "Romaine A. Campbell    "
 title_separator          : "-"
-name                     : &name "Romaine Campbell"
+name                     : &name "Romaine A. Campbell"
 description              : &description "personal description"
 url                      : https://romaineacampbell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Romaine Campbell"
+  name             : "Romaine A. Campbell"
   avatar           : "CampbellRomaine_profile.jpg"
   bio              : "I am a Ph.D. candidate in Economics at Harvard University."
   location         : "Cambridge, MA"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "romainecambell"
+  github           : "romainecampbell"
   google_plus      :
   keybase          :
   instagram        :
